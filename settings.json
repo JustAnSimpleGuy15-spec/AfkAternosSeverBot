@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Swanands AFK Bot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Swanand.aternos.me:12456",
+    "port": 12456,
     "version": "",
     "try-creative": false
   },
